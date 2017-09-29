@@ -33,6 +33,5 @@ Native module to open Android settings specific to a react-native application.
 ```javascript
 import RNAndroidSettingsPrompt from 'react-native-android-settings-prompt';
 
-// TODO: What to do with the module?
-RNAndroidSettingsPrompt;
+RNAndroidSettingsPrompt.open();
 ```
