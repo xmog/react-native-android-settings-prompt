@@ -1,7 +1,8 @@
 import { NativeModules } from 'react-native';
+const { RNAndroidSettingsPrompt } = NativeModules;
 
-export default class RNAndroidSettingsPrompt {
+module.exports = {
 	open () {
-		return NativeModules.RNAndroidSettingsPrompt.openSettings();
+		return RNAndroidSettingsPrompt.openSettings();
 	}
 };
