@@ -8,6 +8,10 @@
     "android",
     "settings"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xmog/react-native-android-settings-prompt.git"
+  },
   "author": "",
   "license": "Apache 2.0",
   "peerDependencies": {
