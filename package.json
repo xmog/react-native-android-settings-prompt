@@ -1,6 +1,6 @@
 {
   "name": "react-native-android-settings-prompt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Native module to open Android settings specific to a react-native application.",
   "main": "index.js",
   "keywords": [
