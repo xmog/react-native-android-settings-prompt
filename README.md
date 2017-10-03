@@ -7,7 +7,7 @@ Native module to open Android settings specific to a react-native application.
 
 `$ npm install react-native-android-settings-prompt --save`
 
-### Mostly automatic installation
+### Automatic installation
 
 `$ react-native link react-native-android-settings-prompt`
 
